@@ -12,7 +12,7 @@ None of these are mandatory but if you haven't done C# before (or recently) then
 
 1. Fork the repo into your own GitHub Account.
 2. Clone the forked repo from your account.
-3. Open the repo in IntelliJ and work through the exercise.
+3. Open the repo in Visual Studio and work through the exercise.
 4. Run any tests to make sure your code works properly.
 5. Push the solution back to your copy of the GitHub repo.
 6. Once you have fully completed the exercise, open a new Pull Request in your GitHub copy of the repo back to the Boolean repo, but rename the PR to use your first and last names (this makes it easier for us to track who is submitting their work).
